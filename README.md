@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Zaix** · Team ID `VTU-QFF-HC-0078` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Zaix)
+[⬆ Back to Top](#zaix)
 
 </div>
